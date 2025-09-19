@@ -66,8 +66,33 @@ The company observed a sharp revenue decline but lacked visibility into:
 
 ---
 
-## 📸 Screenshots / Demos
-*(Add exported `.png` or screenshots of your Power BI pages here, e.g., Performance Overview, Decomposition, Pareto chart)*
+## 📷 Dashboard Screenshots  
+
+### 1. Overview  
+![Overview](images/1.%20Overview.png)  
+
+### 2. Market Analysis  
+![Market](images/2.%20Market.png)  
+
+### 3. Customer Analysis  
+![Customer](images/3.%20Customer.png)  
+
+### 4. Product Analysis  
+![Products](images/4.%20Products.png)  
+
+### 5. Revenue Decomposition  
+![Revenue Decomposition](images/5.%20Revenue%20Decomposition.png)  
+
+### 6. Pareto Analysis
+![Pareto Analysis](images/6.%20Pareto%20Analysis.png)  
+
+### 7. Summary View  
+![Summary](images/7.%20Summary.png)
+
+
+
+
+
 
 ---
 
